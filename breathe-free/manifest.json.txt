@@ -1,0 +1,8 @@
+{
+  "name": "Breathe Free",
+  "short_name": "BreatheFree",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#3BB6A4",
+  "background_color": "#F2E9E4"
+}
